@@ -1,0 +1,50 @@
+{
+  "name": "WriteBack Connector",
+  "connectorType": "writeback",
+  "userId": null,
+  "domoClientId": null,
+  "domoClientSecret": null,
+  "additionalInfo": null,
+  "reportLength": 0,
+  "days": 7,
+  "reports": [
+    "test"
+  ],
+  "advancedReports": null,
+  "guid": "a06921f7-8736-4e19-99b6-791a7a5a585e",
+  "publishPrivate": true,
+  "visibilityType": null,
+  "parameters": [
+    {
+      "name": "queriedDatasetId",
+      "type": "string",
+      "required": true,
+      "order": null,
+      "options": null,
+      "command": null,
+      "helpText": "The ID of the dataset in Domo you want to export data from",
+      "showWhen": null,
+      "value": null,
+      "dateSelectorValue": null,
+      "$$hashKey": "object:456"
+    }
+  ],
+  "commands": null,
+  "showAdvanced": true,
+  "submittedVersion": 0,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": null,
+  "testingProfiles": null,
+  "visible": true
+}
